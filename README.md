@@ -8,3 +8,6 @@ MikroOrm.init() = returna a promise, we put it under a async function,
 We create a object with init();
 
 debug: true, tells us what sql is being used under the hood, true when production.
+
+
+We look at the Mikro-orm entities doc, Typegraph QL does well with classes, hence we take the class one.
